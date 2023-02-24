@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrabdelhamed26&label=Profile%20views&color=0e75b6&style=flat" alt="amrabdelhamed26" /> </p>
 
-- 🌱 I’m currently learning **Flutter_Complete_Reference_Book**
+- 🌱 I’m currently learning from **Flutter_Complete_Reference_Book** and make simple project for every thing i learned
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
