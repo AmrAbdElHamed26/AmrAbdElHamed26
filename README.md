@@ -117,9 +117,10 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://leetcode.com/amr2652001/" target="_blank" style="flex: 1; text-align: center;">
-        <img width="48%" src="https://leetcode.card.workers.dev/amr2652001?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+    <a href="https://leetcode.com/amr2652001/" target="_blank" style="flex: 1; text-align: center; display: block;">
+        <img style="width: 48%; height: auto;" src="https://leetcode.card.workers.dev/amr2652001?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
     </a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrabdelhamed26&" alt="amrabdelhamed26" style="flex: 1; max-width: 48%;">
+    <img style="flex: 1; width: 48%; height: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=amrabdelhamed26&" alt="amrabdelhamed26">
 </div>
+
 
