@@ -7,7 +7,7 @@
 - 🌱 A Software engineer with one year's expertise in Flutter development. 
 - 👨‍💻 Adept in competitive programming, crafting code for elegance and efficiency.
 - 📝 I love sharing my experience and knowledge via [articles](https://medium.com/@amr2652001) 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1z7tL-SC20Rb4Wxxv8P8jVCoU_tp_SgoE/view?usp=drivesdk)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1_KPWkKW0wUXkS4ccGqm8kHeDRLnJD9J8/view?usp=sharing)
 
 <br>
 <div> 
