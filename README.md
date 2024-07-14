@@ -9,7 +9,6 @@
 - 📝 I love sharing my experience and knowledge via [articles](https://medium.com/@amr2652001) 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1z7tL-SC20Rb4Wxxv8P8jVCoU_tp_SgoE/view?usp=drivesdk)
 
-
 <br>
 <div> 
   <a href="https://www.linkedin.com/in/amr-abd-el-hamed-6323b6221/" target="_blank">
@@ -25,37 +24,26 @@
 
 <br>
 
-
-
-
 <div>
   <h3 align="left">Connect with me:</h3>
   <p align="left" style="display: flex; gap: 10px;">
-    <a href="https://www.linkedin.com/in/amr-abd-el-hamed-6323b6221/" target="blank" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/amr-abd-el-hamed-6323b6221/" target="_blank" style="text-decoration: none;">
       <img align="left" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Amr Abd ElHamed" height="30" width="40" />
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100005334434627" target="blank" style="text-decoration: none;">
+    <a href="https://www.facebook.com/profile.php?id=100005334434627" target="_blank" style="text-decoration: none;">
       <img align="left" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Amr Abd ElHamed" height="30" width="40" />
     </a>
-    <a href="mailto:amr2652001@gmail.com" target="blank" style="text-decoration: none;">
+    <a href="mailto:amr2652001@gmail.com" target="_blank" style="text-decoration: none;">
       <img align="left" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="amr2652001@gmail.com" height="30" width="40" />
     </a>
-    <a href="https://wa.me/201005734569" target="blank" style="text-decoration: none;">
+    <a href="https://wa.me/201005734569" target="_blank" style="text-decoration: none;">
       <img align="left" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/whatsapp.svg" alt="Amr Abd ElHamed" height="30" width="40" />
     </a>
   </p>
 </div>
 
-
-
-
-
-
-
-
 <br>
 <br>
-
 
 <h3 align="left">🔧Languages and Tools:</h3>
 
@@ -76,7 +64,6 @@
 | Title | Type |
 | ------------- | :-------------: |
 | [**How To Use NFC With Flutter**](https://medium.com/@amr2652001/nfc-with-flutter-1c889fafe083) | 📝 |
-
 
 ## Samples from My Projects
 
@@ -111,14 +98,7 @@
     </div>
 </div>
 
-
-
-
 <br>
-
-
-
-
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://leetcode.com/amr2652001/" target="_blank" style="flex: 1; text-align: center; display: block;">
@@ -126,5 +106,3 @@
     </a>
     <img style="flex: 1; width: 48%; height: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=amrabdelhamed26&" alt="amrabdelhamed26">
 </div>
-
-
