@@ -98,7 +98,32 @@
     </div>
 </div>
 
+
+### Haykl | هيكل
+- Tools: Flutter Web, Firebase Services, MVVM, Responsive UI  
+
+<div style="display: flex; gap: 20px;">
+    <div style="text-align: center;">
+        <a href="https://play.google.com/store/apps/details?id=com.hayklapp.haykl.haykl&hl=en" target="_blank">
+            <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play">
+       
+        
+
+### Lvlup365
+
+- Tools: odoo integration, MVVM, Responsive UI , apis
+
+<div style="display: flex; gap: 20px;">
+    <div style="text-align: center;">
+        <a href="https://play.google.com/store/apps/details?id=com.s.new_hr&hl=en" target="_blank">
+            <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play">
+        </a>
+      
+
 <br>
+
+<br><br>
+
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://leetcode.com/amr2652001/" target="_blank" style="flex: 1; text-align: center; display: block;">
